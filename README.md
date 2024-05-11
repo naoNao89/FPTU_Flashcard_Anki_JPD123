@@ -19,7 +19,8 @@ Kho này chứa các bộ thẻ học Anki được thiết kế đặc biệt c
 3. Bắt đầu học và ôn từ vựng bằng cách sử dụng hệ thống thẻ flashcard Anki.
 
 Cho dù bạn là người mới bắt đầu hay là người học tiên tiến, các thẻ flashcard Anki này được thiết kế để hỗ trợ mục tiêu học tiếng Nhật của bạn và nâng cao trải nghiệm học tập của bạn.
----
+
+Để xem phiên bản trước của kho này cho khóa học JPD113, vui lòng truy cập [FPTU_Flashcard_Anki_JPD113](https://github.com/naoNao89/FPTU_Flashcard_Anki_JPD113).
 
 # FPTU Flashcard (Anki) JPD123
 
@@ -41,3 +42,5 @@ To use the Anki flashcard decks, follow these steps:
 3. Start studying and reviewing the vocabulary using the Anki flashcard system.
 
 Whether you're a beginner or an advanced learner, these Anki flashcards are designed to support your Japanese language learning goals and enhance your study experience.
+
+To see the previous version of this repository for the JPD113 course, please visit [FPTU_Flashcard_Anki_JPD113](https://github.com/naoNao89/FPTU_Flashcard_Anki_JPD113).
